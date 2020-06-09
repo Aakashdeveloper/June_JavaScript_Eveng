@@ -160,3 +160,75 @@ a.substring(1,3) > (1,2)
 "on"
 a.substr(1,3) > (1,2,3)
 "ong"
+
+Slice ('Hongkong')
+    > a(-2) => it will give me 2 letters from backward >("ng")
+    > a(-2,1) => it will blank string >("")
+    > a(1,-2) => it will remove from both direaction('ongko')
+    > a(-2,-2) => it will black string >("")
+
+substring('Hongkong') 
+       > a(-2) => it will same string >("Hongkong") 
+       > a(-2,1) =>  only considered +v integer ("H")
+       > a(1,-2) =>  only considered +v integer ("H")
+       > a(-2,-2) => it will blank string >("")
+
+
+var a = "Hongkong"
+undefined
+a.slice(2,2)
+""
+a.slice(2,3)
+"n"
+a.slice(-2,2)
+""
+a.slice(2,-2)
+"ngko"
+a.slice(-2)
+"ng"
+a.slice(-3)
+"ong"
+a.slice(-3,1)
+""
+a.slice(1,-3)
+"ongk"
+
+
+var a = "Hongkong"
+undefined
+a.substring(-2)
+"Hongkong"
+a.substring(-2,1)
+"H"
+a.substring(1,-2)
+"H"
+a.substring(-1,5)
+"Hongk"
+a.substring(-1,3)
+"Hon"
+a.substring(-2,3)
+"Hon"
+
+var a = "Hongkong"
+undefined
+a.substr(-1)
+"g"
+a.substr(-2)
+"ng"
+a.substr(-2,1)
+"n"
+a.substr(-3,1)
+"o"
+a.substr(-3,2)
+"on"
+a.substr(-5,2)
+"gk"
+
+var a = "Hongkong"
+undefined
+a.substr(-2,-2)
+""
+a.substr(2,-2)
+""
+a.substr(-2)
+"ng"
