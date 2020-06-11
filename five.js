@@ -16,5 +16,21 @@ parseFloat(a)+parseFloat(b)
 var c = 10.23
 var d = 20.20
 c+d
-30.43
-"10.2320.20"
+> 30.43
+> "10.2320.20"
+
+String(c)+String(d) 
+
+var c = 10.23
+var d = 20.20
+undefined
+c.toString()
+"10.23"
+d.toString()
+"20.2"
+c.toString()+d.toString()
+"10.2320.2"
+c+d+""
+"10.2320.2"
+
+"10.23"+20.2
