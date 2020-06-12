@@ -102,3 +102,31 @@ if(a === true){
 }else{
     console.log("biie")
 }
+
+
+var a= 10
+a>10?"hii":"bie"
+
+//ternory operator
+var a= 10
+a>10?"hii":"bie"
+"bie"
+var a= 10
+a==10?"hii":"bie"
+"hii"
+var a= 10
+a==10?a+1:a-1
+11
+var a= 10
+a==11?a+1:a-1
+9
+
+if(a==10){
+    console.log("hiii")
+}else{
+    console.log("bie")
+}
+
+//Wrong
+a==10?"hii":"bie"?10:20
+//

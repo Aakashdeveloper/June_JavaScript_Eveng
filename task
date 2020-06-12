@@ -1,0 +1,7 @@
+1)
+Luck Game
+------------
+Genrate one random number between 2 to 30
+ask user for one number
+if both match than user win else user loose
+

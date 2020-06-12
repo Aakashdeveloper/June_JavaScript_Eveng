@@ -7,18 +7,21 @@ Ecma Script
 Ecma 5
 Ecma 6
 Ecma 7
+---------------
 > variable
 > Operations
----------------------
 > condition
 > if else
 > ternery Operations
 > Date
 > switch
 > localstorage
+> Session
+> String literals
+---------------------
+> Github
 > array
 > loops
-> String literals
 > functions 
 > Es6
     > lat, const
@@ -49,7 +52,7 @@ Ecma 7
 > Dynamic DropDown
 -------------------------
 > JSON
-> Github
+
 
 factorial
 facbonici
