@@ -18,8 +18,8 @@ Ecma 7
 > localstorage
 > Session
 > String literals
----------------------
 > Github
+---------------------
 > array
 > loops
 > functions 
@@ -58,3 +58,33 @@ factorial
 facbonici
 palindrom
 reverse()
+
+
+var a = Math.floor(Math.random()*(30-2))+2
+var b = prompt("Enter a number")
+if(a==b){
+   console.log(`User Won`)
+}
+else{
+     console.log(`User Lost`)
+}
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testgithub.git
+git push -u origin master
+                
+/////Next And all time/////
+git add .
+git commit -m "first commit"
+git push
+
+
+////////////
+
+git checkout -b homepage
+git add .
+git commit -m "first commit"
+git push -u origin homepage
