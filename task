@@ -5,3 +5,10 @@ Genrate one random number between 2 to 30
 ask user for one number
 if both match than user win else user loose
 
+
+Genrate one random number between 2 to 30
+ask user for one number
+give 5 change and save the result and 
+if winning is more then loose than user win
+
+
