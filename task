@@ -8,7 +8,15 @@ if both match than user win else user loose
 
 Genrate one random number between 2 to 30
 ask user for one number
-give 5 change and save the result and 
+give 5 chance and save the result and 
 if winning is more then loose than user win
 
 
+['win','loose','win','loose','win']
+
+win  = win+1
+loose= loose+1
+
+if(win>loose){
+
+}

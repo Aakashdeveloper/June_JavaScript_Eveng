@@ -19,7 +19,7 @@ c+d
 > 30.43
 > "10.2320.20"
 
-String(c)+String(d) 
+String(c)+String(d)
 
 var c = 10.23
 var d = 20.20

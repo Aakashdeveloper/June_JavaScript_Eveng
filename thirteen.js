@@ -1,8 +1,8 @@
 for
 while
 do while
-for of
-for in
+for of  
+for in  (for objects)
 //////////
 Map
 filter
@@ -71,3 +71,23 @@ do{
     i++
 }
 while(i<5);
+
+
+/////////////////////////////////
+var colors = ["Red","Yellow","Green","Orange"]
+for(abc of colors){
+    console.log(abc)
+}
+
+var colors = ["Red","Yellow","Green","Orange"]
+for(abc of colors){
+    console.log(abc)
+}
+VM156:3 Red
+VM156:3 Yellow
+VM156:3 Green
+VM156:3 Orange
+
+
+var colors = ["Red","Yellow","Green","Orange"]
+colors[2]
