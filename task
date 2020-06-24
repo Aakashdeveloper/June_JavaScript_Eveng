@@ -20,3 +20,7 @@ loose= loose+1
 if(win>loose){
 
 }
+
+/////////////////
+make a pattern for password for alphanumeric  with one
+special char and  min length 8 to 15
