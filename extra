@@ -27,8 +27,8 @@ Ecma 7
     > maps,filter 
 > Clousers
 > Hoisting
----------------------
 > regex
+---------------------
 > object 
 > this 
 > Transpile
@@ -88,3 +88,8 @@ git checkout -b homepage
 git add .
 git commit -m "first commit"
 git push -u origin homepage
+
+
+npm
+babel
+package.json
