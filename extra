@@ -28,15 +28,15 @@ Ecma 7
 > Clousers
 > Hoisting
 > regex
----------------------
-> object 
 > this 
 > Transpile
+---------------------
+> object 
 > Es6
     > classes
     > import export
-
 > Prototypes
+> call/apply
 > DoM
 > Geolocation
 > Form validation
@@ -93,3 +93,11 @@ git push -u origin homepage
 npm
 babel
 package.json
+
+///////////
+**NodeJs Must be installed in system
+> go inside the folder where you want to install using cmd
+> npm  init
+> answer all questions
+
+> npm i @babel/core @babel/preset-env @babel/register 

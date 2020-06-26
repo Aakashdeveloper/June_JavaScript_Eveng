@@ -1,0 +1,20 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "this is about transpile",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "developerfunnel",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/register": "^7.10.3"
+  }
+}
