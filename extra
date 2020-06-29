@@ -30,12 +30,12 @@ Ecma 7
 > regex
 > this 
 > Transpile
----------------------
 > object 
 > Es6
     > classes
     > import export
 > Prototypes
+---------------------
 > call/apply
 > DoM
 > Geolocation
