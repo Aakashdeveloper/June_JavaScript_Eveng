@@ -35,13 +35,13 @@ Ecma 7
     > classes
     > import export
 > Prototypes
----------------------
-> call/apply
 > DoM
 > Geolocation
+> Calc
+---------------------
+> call/apply
 > Form validation
 > Event
-> Calc
 > Progress bar
 > currenyConvertor
 > promis
