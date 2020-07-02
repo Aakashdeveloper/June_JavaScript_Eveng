@@ -38,22 +38,20 @@ Ecma 7
 > DoM
 > Geolocation
 > Calc
----------------------
-> call/apply
 > Form validation
 > Event
-> Progress bar
 > currenyConvertor
 > promis
 > async await
+> Progress bar
+> call/apply
+> JSON
+---------------------
+> Baisc Jquery
 > Weather application
 > ajax
-> Baisc Jquery
 > Dynamic DropDown
 -------------------------
-> JSON
-
-
 factorial
 facbonici
 palindrom
